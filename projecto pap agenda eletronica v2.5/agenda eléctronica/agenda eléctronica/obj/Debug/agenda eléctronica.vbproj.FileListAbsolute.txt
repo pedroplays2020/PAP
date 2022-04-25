@@ -1,0 +1,385 @@
+C:\Users\pedro\AppData\Local\Temporary Projects\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+C:\Users\pedro\Documents\Visual Studio 2012\Projects\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+G:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+G:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+G:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+G:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+G:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe
+G:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.pdb
+G:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.xml
+G:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.formulario_principal.resources
+G:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.horario.resources
+G:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.login.resources
+G:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Resources.resources
+G:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbproj.GenerateResource.Cache
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.pdb
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.xml
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbprojResolveAssemblyReference.cache
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.funçao.resources
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.dados_do_login.resources
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.dados_do_registo.resources
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.dados_do_utilizador.resources
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.espaço.resources
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.formulario_principal.resources
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.horario.resources
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.login.resources
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Resources.resources
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.novoHorario.resources
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.pesquisar.resources
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.registo_dados_do_utilizador.resources
+J:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbproj.GenerateResource.Cache
+G:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.espaço.resources
+G:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.pesquisar.resources
+G:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Utilizadores.resources
+C:\Users\pedro\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+C:\Users\pedro\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+C:\Users\pedro\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+C:\Users\pedro\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+C:\Users\pedro\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe
+C:\Users\pedro\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.pdb
+C:\Users\pedro\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.xml
+C:\Users\pedro\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbprojResolveAssemblyReference.cache
+C:\Users\pedro\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.funçao.resources
+C:\Users\pedro\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.dados_do_registo.resources
+C:\Users\pedro\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.espaço.resources
+C:\Users\pedro\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.formulario_principal.resources
+C:\Users\pedro\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.horario.resources
+C:\Users\pedro\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.login.resources
+C:\Users\pedro\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Resources.resources
+C:\Users\pedro\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.pesquisar.resources
+C:\Users\pedro\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.registo_dados_do_utilizador.resources
+C:\Users\pedro\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Utilizadores.resources
+C:\Users\pedro\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbproj.GenerateResource.Cache
+H:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+H:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+H:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+H:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+H:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe
+H:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.pdb
+H:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.xml
+H:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbprojResolveAssemblyReference.cache
+H:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.funçao.resources
+H:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.dados_do_registo.resources
+H:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.espaço.resources
+H:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.formulario_principal.resources
+H:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.horario.resources
+H:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.login.resources
+H:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Resources.resources
+H:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.pesquisar.resources
+H:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.registo_dados_do_utilizador.resources
+H:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Utilizadores.resources
+H:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbproj.GenerateResource.Cache
+G:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.função.resources
+C:\Users\aluno\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+C:\Users\aluno\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+C:\Users\aluno\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+C:\Users\aluno\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+C:\Users\aluno\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe
+C:\Users\aluno\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.pdb
+C:\Users\aluno\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.xml
+C:\Users\aluno\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.funçao.resources
+C:\Users\aluno\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.dados_do_registo.resources
+C:\Users\aluno\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.espaço.resources
+C:\Users\aluno\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.formulario_principal.resources
+C:\Users\aluno\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.função.resources
+C:\Users\aluno\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.horario.resources
+C:\Users\aluno\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.login.resources
+C:\Users\aluno\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Resources.resources
+C:\Users\aluno\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.pesquisar.resources
+C:\Users\aluno\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.registo_dados_do_utilizador.resources
+C:\Users\aluno\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Utilizadores.resources
+C:\Users\aluno\Desktop\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbproj.GenerateResource.Cache
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.pdb
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.xml
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Categoria.resources
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.espaço.resources
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.formulario_principal.resources
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.função.resources
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.horario.resources
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.login.resources
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Resources.resources
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.pesquisar.resources
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Registo.resources
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Utilizadores.resources
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbproj.GenerateResource.Cache
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+G:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Categoria.resources
+G:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Registo.resources
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbprojResolveAssemblyReference.cache
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.pdb
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.xml
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbprojResolveAssemblyReference.cache
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Categoria.resources
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.espaço.resources
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.formulario_principal.resources
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.função.resources
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.horario.resources
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.login.resources
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Resources.resources
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.pesquisar.resources
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Registo.resources
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Utilizadores.resources
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbproj.GenerateResource.Cache
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+G:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbprojResolveAssemblyReference.cache
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbprojResolveAssemblyReference.cache
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.categoria.resources
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.espaço.resources
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.formulario_principal.resources
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.função.resources
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.horario.resources
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.login.resources
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Resources.resources
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.pesquisar.resources
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Registo.resources
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Utilizadores.resources
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbproj.GenerateResource.Cache
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.pdb
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.xml
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.dias_da_seamana.resources
+E:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.tempo.resources
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.pdb
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.xml
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.categoria.resources
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.dias_da_seamana.resources
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.espaço.resources
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.formulario_principal.resources
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.função.resources
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.horario.resources
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.login.resources
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Resources.resources
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.pesquisar.resources
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Registo.resources
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.tempo.resources
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Utilizadores.resources
+C:\Users\admin\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbproj.GenerateResource.Cache
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.dias_da_seamana.resources
+F:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.tempo.resources
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.pdb
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.xml
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.categoria.resources
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.dias_da_seamana.resources
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.espaço.resources
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.formulario_principal.resources
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.função.resources
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.horario.resources
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.login.resources
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Resources.resources
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.pesquisar.resources
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Registo.resources
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.tempo.resources
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Utilizadores.resources
+C:\Users\aluno\Desktop\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbproj.GenerateResource.Cache
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.pdb
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.xml
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbprojResolveAssemblyReference.cache
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.categoria.resources
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.dias_da_seamana.resources
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.espaço.resources
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.formulario_principal.resources
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.função.resources
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.horario.resources
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.login.resources
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Resources.resources
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.pesquisar.resources
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Registo.resources
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.tempo.resources
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Utilizadores.resources
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.pdb
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.xml
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.categoria.resources
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.dias_da_seamana.resources
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.espaço.resources
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.formulario_principal.resources
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.função.resources
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.horario.resources
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.login.resources
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Resources.resources
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.pesquisar.resources
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Registo.resources
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.tempo.resources
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Utilizadores.resources
+C:\Users\aluno\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbproj.GenerateResource.Cache
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.dias_da_seamana.resources
+D:\escola\escola\PAP\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.tempo.resources
+C:\Users\pedro\OneDrive\pap\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+C:\Users\pedro\OneDrive\pap\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+C:\Users\pedro\OneDrive\pap\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+C:\Users\pedro\OneDrive\pap\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+C:\Users\pedro\Downloads\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+C:\Users\pedro\Downloads\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+C:\Users\pedro\Downloads\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+C:\Users\pedro\Downloads\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+C:\Users\pedro rodrigues\Desktop\agenda eléctronica 2.1\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+C:\Users\pedro rodrigues\Desktop\agenda eléctronica 2.1\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+C:\Users\pedro rodrigues\Desktop\agenda eléctronica 2.1\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+C:\Users\pedro rodrigues\Desktop\agenda eléctronica 2.1\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.pdb
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.xml
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbprojResolveAssemblyReference.cache
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.categoria.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.dias_da_seamana.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.espaço.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.formulario_principal.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.função.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.horario.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.login.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Resources.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.pesquisar.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Registo.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.tempo.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Utilizadores.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbproj.GenerateResource.Cache
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.pdb
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.xml
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbprojResolveAssemblyReference.cache
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.categoria.resources
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.dias_da_seamana.resources
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.espaço.resources
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.formulario_principal.resources
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.função.resources
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.horario.resources
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.login.resources
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Resources.resources
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.pesquisar.resources
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Registo.resources
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.tempo.resources
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Utilizadores.resources
+F:\projecto pap agenda eletronica v2.1\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbproj.GenerateResource.Cache
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.pdb
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.xml
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbprojResolveAssemblyReference.cache
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.categoria.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.dias_da_seamana.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.espaço.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.formulario_principal.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.função.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.horario.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.login.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Resources.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.pesquisar.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Registo.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.tempo.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Utilizadores.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbproj.GenerateResource.Cache
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.pdb
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.xml
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbprojResolveAssemblyReference.cache
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.categoria.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.dias_da_seamana.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.espaço.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.formulario_principal.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.função.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.horario.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.login.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Resources.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.pesquisar.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Registo.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.tempo.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Utilizadores.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.3\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbproj.GenerateResource.Cache
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.pdb
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.xml
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbprojResolveAssemblyReference.cache
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.categoria.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.dias_da_seamana.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.espaço.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.formulario_principal.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.função.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.horario.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.login.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Resources.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.pesquisar.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Registo.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.tempo.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Utilizadores.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.4\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbproj.GenerateResource.Cache
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbprojResolveAssemblyReference.cache
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.categoria.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.espaço.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.formulario_principal.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.função.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.horario.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.login.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Resources.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.pesquisar.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Registo.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.tempo.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.Utilizadores.resources
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.vbproj.GenerateResource.Cache
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.pdb
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.xml
+C:\Users\pedro rodrigues\Desktop\projecto pap agenda eletronica v2.5\agenda eléctronica\agenda eléctronica\obj\Debug\agenda_eléctronica.dias.resources

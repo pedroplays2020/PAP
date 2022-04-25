@@ -1,0 +1,16 @@
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+C:\Users\pedro\Desktop\projecto pap agenda eletronica\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+C:\Users\pedro\Desktop\projecto pap agenda eletronica v2\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+C:\Users\pedro\Desktop\projecto pap agenda eletronica v2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+C:\Users\pedro\Desktop\projecto pap agenda eletronica v2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+C:\Users\pedro\Desktop\projecto pap agenda eletronica v2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+C:\Users\pedro\OneDrive\pap\projecto pap agenda eletronica v2\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+C:\Users\pedro\OneDrive\pap\projecto pap agenda eletronica v2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+C:\Users\pedro\OneDrive\pap\projecto pap agenda eletronica v2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+C:\Users\pedro\OneDrive\pap\projecto pap agenda eletronica v2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb
+C:\Users\pedro rodrigues\OneDrive\pap\projecto pap agenda eletronica v2\agenda eléctronica\agenda eléctronica\bin\Debug\agenda eléctronica.exe.config
+C:\Users\pedro rodrigues\OneDrive\pap\projecto pap agenda eletronica v2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.exe
+C:\Users\pedro rodrigues\OneDrive\pap\projecto pap agenda eletronica v2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.xml
+C:\Users\pedro rodrigues\OneDrive\pap\projecto pap agenda eletronica v2\agenda eléctronica\agenda eléctronica\obj\Debug\agenda eléctronica.pdb

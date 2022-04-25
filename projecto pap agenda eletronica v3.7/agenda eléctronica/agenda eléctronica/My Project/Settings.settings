@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="caminhofoto" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\admin\Desktop\projecto pap agenda eletronica v3.7\Fotos</Value>
+    </Setting>
+    <Setting Name="foto_inicial" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\admin\Desktop\projecto pap agenda eletronica v3.7\agenda eléctronica\agenda eléctronica\Resources\utilizador.jpg</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
